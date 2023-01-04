@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 669ea8261bc0f9f46ba35c3dcaa6361a, type: 3}
+  m_Name: Fodder Stats
+  m_EditorClassIdentifier: 
+  health: 1
+  speed: 5
+  armor: 10
+  defence: 5
+  attack: 4
+  attacking: 0
+  armorPiercing: 0
+  moral: 30
+  moralPenalty: 0
+  stamina: 20
+  unitWeight: 15
